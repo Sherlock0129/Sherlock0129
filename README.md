@@ -1,5 +1,5 @@
-<h1 align="center">你好，我是 Sherlock 👋</h1>
-<h3 align="center">🎓 本科生 | 🚀 物联网工程专业 | 💡 AI方面爱好者</h3>
+<h1 align="center">Hello, I'm Sherlock 👋</h1>
+<h3 align="center">🎓 Undergraduate | 🚀 IoT Engineering Major | 💡 AI Enthusiast</h3>
 
 ---
 
@@ -9,18 +9,18 @@
 
 ---
 
-### ✨ 关于我
-- 🧠 专注于 **AI 制造业创新和信息安全**  
-- 📚 热衷学习新技术，例如 **神经网络和多模态数据融合**  
-- 🌍 喜欢分享知识，推动技术影响力  
+### ✨ About Me
+- 🧠 Focused on **AI-driven innovation in manufacturing and information security**  
+- 📚 Passionate about learning new technologies like **Neural Networks and Multimodal Data Fusion**  
+- 🌍 Enjoy sharing knowledge and driving technical influence  
 
-### 🎓 学历
-- **南京信息工程大学 (NUIST)** - 物联网工程专业  
-- **爱尔兰东南理工大学 (SETU)** - 交换生项目  
+### 🎓 Education
+- **Nanjing University of Information Science and Technology (NUIST)** - IoT Engineering  
+- **South East Technological University (SETU)** - Collaborative Program  
 
 ---
 
-### 🛠 技能和工具
+### 🛠 Skills and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -31,28 +31,28 @@
 
 ---
 
-### 🚀 我的项目
-| 项目名称       | 描述                                                                 | 链接                                             |
-|----------------|----------------------------------------------------------------------|--------------------------------------------------|
-| **函数仿生算法优化器** | 基于 Streamlit 的前端可视化界面，对比不同的函数优化效果                 | [项目链接](https://github.com/Sherlock0129/Stream) |
-| **NUIST实验报告Latex模板**          | 免去格式修改的苦恼                                | [项目链接](https://github.com/Sherlock0129/NUISTReportChinese)   |
+### 🚀 My Projects
+| Project Name             | Description                                                             | Link                                              |
+|--------------------------|-------------------------------------------------------------------------|---------------------------------------------------|
+| **Bio-Inspired Algorithm Optimizer** | A Streamlit-based frontend for comparing optimization effects on various functions | [Project Link](https://github.com/Sherlock0129/Stream) |
+| **NUIST Report LaTeX Template**      | Simplifies formatting issues for academic reports                             | [Project Link](https://github.com/Sherlock0129/NUISTReportChinese) |
 
 ---
 
-### 🌟 我的目标
-- ✅ 搭建自己的深度学习网络 **1**  
-- ✅ 开发一个自己的网页 **2**  
-- ✅ 完成新项目：AI 数据集清洗 **3**  
+### 🌟 My Goals
+- ✅ Build my own deep learning network **1**  
+- ✅ Develop a personal website **2**  
+- ✅ Complete a new project: AI dataset cleaning **3**  
 
 ---
 
-### 🤝 联系方式
+### 🤝 Contact Me
 <p align="center">
-  <a href="mailto:sherlock@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/微信-WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
+  <a href="mailto:2025352914@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/WeChat-SherlockFormalin-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔍 感谢你的关注
-欢迎访问我的项目、提出建议或合作！ 🙌
+### 🔍 Thank You for Visiting
+Feel free to check out my projects, give feedback, or reach out for collaboration! 🙌
