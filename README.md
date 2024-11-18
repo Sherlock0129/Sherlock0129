@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 Xia Dongxu 👋</h1>
+<h1 align="center">你好，我是 Sherlock 👋</h1>
 <h3 align="center">🎓 学生 | 🚀 AI 和制造业质量检测专家 | 💡 创新探索者</h3>
 
 ---
