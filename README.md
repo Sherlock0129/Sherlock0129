@@ -30,29 +30,16 @@
 ### 🚀 我的项目
 | 项目名称       | 描述                                                                 | 链接                                             |
 |----------------|----------------------------------------------------------------------|--------------------------------------------------|
-| **函数仿生算法优化器** | 基于 YOLOv5 的 PCB 缺陷检测，提升检测效率和精度                 | [项目链接](https://github.com/your-project-link) |
-| **智能数据融合硬件**          | 多模态数据融合与适应性学习，用于智能系统                                | [项目链接](https://github.com/your-other-link)   |
-
----
-
-### 📈 GitHub 活动
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xia-dongxu&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xia-dongxu&layout=compact&theme=radical" alt="Top Languages">
-</p>
+| **函数仿生算法优化器** | 基于 Streamlit 的 前端可视化界面，对比不同的函数优化效果                 | [项目链接]([https://github.com/Sherlock0129/Stream]) |
+| **NUIST实验报告Latex模板**          | 免去格式修改的苦恼                                | [项目链接](https://github.com/Sherlock0129/NUISTReportChinese)   |
 
 ---
 
 ### 🌟 我的目标
-- ✅ 减少 PCB 缺陷检测错误率至 **0.1% 以下**  
-- ✅ 节约工厂运营成本 **30%**  
-- ✅ 加速新产品上市时间 **1-2 个月**  
+- ✅ 搭建自己的深度学习网络 **1**  
+- ✅ 开发一个自己的网页 **2**
+- ✅ 完成新项目：ai数据集清洗 **3** 
 
 ---
 
-### 🤝 联系我
-<p align="center">
-  <a href="mailto:xia.dongxu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/xia-dongxu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://xia-dongxu.com"><img src="https://img.shields.io/badge/Website-4E9CAF?style=for-the-badge&logo=firefox&logoColor=white"></a>
-</p>
+
