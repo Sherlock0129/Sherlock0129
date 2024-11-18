@@ -47,10 +47,9 @@
 ---
 
 ### 🤝 Contact Me
-<p align="center">
-  <a href="mailto:2025352914@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/WeChat-SherlockFormalin-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
-</p>
+- **Email** - 2025352914@qq.com  
+- **WeChat** - SherlockFormalin 
+
 
 ---
 
