@@ -47,7 +47,7 @@
 ---
 
 ### 🤝 Contact Me
-- **Email** - 2025352914@qq.com  
+- **Email** - SherlockFormalin@outlook.com  
 - **WeChat** - SherlockFormalin 
 
 
